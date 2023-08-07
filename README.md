@@ -4,6 +4,9 @@ Code is mostly in ppi_gat_rni.ipynb, with some graph generation also in visualis
 
 Question 3 in the file GRL exam.pdf pertains to the code in this repository, where I conduct experiments related to the question: "How does Random Node Initialisation (RNI) affect attention aggregation in Graph Attention Networks (GATs)?"
 
+![image](https://github.com/CosmicRay11/Graph-Representation-Learning-mini-project/assets/39885332/83f1f023-1720-41b1-8fc2-a58be095fcd5)
+
+
 ---
 Example code for training a model on the PPI dataset was used and adapted in this study: 
 https://github.com/pyg-team/pytorch_geometric/blob/master/examples/ppi.py
