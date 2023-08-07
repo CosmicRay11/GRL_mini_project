@@ -1,4 +1,4 @@
-# Geometric Deep Learning mini-project
+# Graph Representation Learning mini-project
 GitHub repository to store code as evidence for the Graph Representation Learning mini-project, submitted to University of Oxford over Christmas vacation 2022/23.
 Code is mostly in ppi_gat_rni.ipynb, with some graph generation also in visualisation.ipynb
 
